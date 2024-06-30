@@ -1,0 +1,111 @@
+.oswald{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
+#bgvideo{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+ }
+
+ .name{
+    font-size: 70px;
+    margin-left: 235px;
+    margin-top: 180px;
+    vertical-align: bottom;
+    color:blanchedalmond;
+    font-weight: bolder;
+    margin-right: 500px;
+    
+ }
+ .a1:hover{
+    transform: scale(1.03);
+ }
+
+ .a1{
+    transition: transform .5s;
+ }  
+
+#cov{
+    border-radius: 15% ;
+    
+    float: right !important;
+    margin-top: -310px;
+    margin-right: 120px;
+    transition: transform .5s;
+ }
+ #cov:hover{
+    transform: scale(1.03);
+ }
+
+ .contain1{
+    margin: 50px;
+    margin-top: 200px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: beige;
+    border : solid beige 3px;
+    backdrop-filter: blur(50px);
+    
+    border-radius: 20px;
+    transition: transform .5s;
+ }
+
+ .contain1:hover{
+    transform: scale(1.03);
+ }
+
+
+ .contain{
+    margin: 50px;
+    margin-top: 200px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: beige;
+    border : solid beige 3px;
+    backdrop-filter: blur(50px);
+    padding: 25px;
+    border-radius: 20px;
+    transition: transform .5s;
+ }
+
+ .contain:hover{
+    transform: scale(1.03);
+ }
+
+ #post{
+    color: azure;
+    float: right;
+    margin-top: -185px;
+    font-size:  30px !important;
+    margin-right: 150px;
+    transition: transform .5s;
+ }
+
+ #post:hover{
+    transform: scale(1.03);
+ }
+
+ .playwrite{
+  font-family: "Playwrite VN", cursive;
+  font-optical-sizing: auto;
+  font-weight: 50px;
+  font-style: normal;
+  }
+
+  #tmp1{
+    margin-top: -33px;
+    margin-left: 970px;
+  }
+
+  #head1{
+    margin:25px;
+    color: bisque;
+    
+  }
